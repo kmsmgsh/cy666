@@ -1,0 +1,37 @@
+---
+title: "Chunyu Wang"
+image: image.png
+about:
+  template: trestles
+  links:
+    - text: Mastodon
+      icon: mastodon
+      url: "https://fosstodon.org/@MikeMahoney218"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/mikemahoney218"
+    - text: Email
+      url: "mailto:mike.mahoney.218+site@gmail.com"
+    - text: Blog
+      url: "blog.html"
+    - text: CV
+      url: "cv.pdf"
+comments: false
+---
+::: {.column-page}
+
+## Biography
+
+I’m a assistant Professor major in statistics.
+
+## Selected Projects
+
+#### Publications
+
+
+
+#### R Packages
+
+
+
+:::
