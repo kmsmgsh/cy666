@@ -10,8 +10,6 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
-      - text: 'research interests'
-        href: research
       - text: 'Publications'
         href: publications
       - text: 'Teaching'
